@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Radio Nativa FM 94.1 - Piratini</string>
+
+    <!-- Notificações na barra de informações. -->
+    <string name="info_ar">NO AR</string>
+    <string name="info_fora_ar">FORA DO AR</string>
+    <string name="info_loading">CARREGANDO....</string>
+
+    <!-- URL principal da Rádio Nativa FM 94.1 -->
+    <string name="stream_url">http://r14.ciclano.io:8227/stream</string>
+
+    <!-- URL secundária e outras da Rádio Nativa FM 94.1 -->
+    <string name="stream_url_secundary">https://r14.ciclano.io:15008/stream</string>
+    <string name="stream_url_outras">https://cast4.hoost.com.br:20316/stream</string>
+
+
+    <!-- Links para executar testes no player. -->
+    <string name="test_video_url">https://www.youtube.com/watch?v=XF8_t6s3kPw</string>
+    <string name="test_music_url">http://www.villopim.com.br/android/Music_02.mp3</string>
+    <string name="test_audio_internal"></string>
+
+</resources>
